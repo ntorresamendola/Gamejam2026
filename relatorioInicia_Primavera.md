@@ -1,10 +1,10 @@
 ## Equipe: Primavera (Grupo 1)
 ## Nomes
-* Gabrielle Vieira Marcelino
-* Vinicius Milani de Castro Oliveira
+* Gabrielle Vieira Marcelino - GTI - 5ª semestre
+* Vinicius Milani de Castro Oliveira - ADS - Matutino - 1º semestre
 * Geiza Maria Morais Ferreira
-* Natanael Torres Amendola 
-# Nome provisório: Fatec: falha de contenção
+* Natanael Torres Amendola ADS - Vespertino - 4º semestre
+# Nome provisório: Fatec: falha na contenção
 
 ## Descrição inicial do projeto
 Um texto de ficção baseada em texto que passa inicialmente na Fatec Campinas, quando o segredo do que foi encontrado - e supostamente selado para sempre - durante as obras de construção da Fatec Campinas ressurge durante um dia de eventos climáticos extremos. O escopo inicial é uma narrativa que dure entre 30min e 1h por jogo e envolva pelo menos elementos visuais, além do próprio texto, ligados a temáticas nacionais, especialmente as que envolvem a história e a mitologia da cidade de Campinas. A narrativa será do tema horror e envolverá elementos do Halloween, conforme será destacado em um documento a ser criado e que seria originalmente o README desta branch.
